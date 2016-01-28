@@ -9,3 +9,5 @@ supported JDK (>=1.8) installed and on the path for these scripts to function co
 Alternatively, you can download a precompiled JAR from [the releases page](https://github.com/caseif/binks.jar/releases/).
 
 Note that this program requires Java 8 or greater.
+
+Also, please note that this program will run as a daemon, meaning if you open it through a file explorer you'll need a task manager to kill it. This will be your only warning.
